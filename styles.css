@@ -1,0 +1,27 @@
+.heading
+{
+color:blue;
+font-size: 40px;
+}
+
+.description
+{
+color:rgb(128, 128, 128);
+font-size: 20px;
+border-left-style:solid;
+border-color: black;
+border-width:20px;
+padding: 10px;
+}
+
+.image
+{
+	width: 200px;
+	position: 500,300 ;
+	
+}
+
+.chart
+{
+height: 300px;
+}
